@@ -1,0 +1,47 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 48px;
+  margin: 20px;
+}
+
+h2 {
+  font-size: 36px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: left;
+}
+
+img {
+  border-radius: 10px;
+  box-shadow: 7px 7px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 24px;
+  margin: 20px;
+  text-align: left;
+}
+
+li {
+  display: list-item;
+  list-style-position: inside;
+  text-align: left;
+}
+
+h2, p, li {
+    margin: auto auto 24px 24px;
+}
+
+a {
+    display: block;
+    font-size: 20px;
+    margin: 24px auto;
+}
